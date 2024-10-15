@@ -1,0 +1,27 @@
+{
+  "name": "circular-improved-latest",
+  "version": "1.0.0",
+  "description": "This is the package to resolve the circular refrences in a swagger 2.0 spec file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asifsajjad-projects/swagger-circular-resolver.git"
+  },
+  "keywords": [
+    "swagger",
+    "swagger",
+    "2.0",
+    "circular-reference",
+    "resolver",
+    "swagger-circular"
+  ],
+  "author": "Asif Sajjad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asifsajjad-projects/swagger-circular-resolver/issues"
+  },
+  "homepage": "https://github.com/asifsajjad-projects/swagger-circular-resolver#readme"
+}
